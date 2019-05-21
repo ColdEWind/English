@@ -7,9 +7,7 @@ namespace EnglishPrR1
         static void Main(string[] args)
         {
             var obMenu = new Menu();
-            obMenu.TopMenu();
-
-            Console.ReadKey();
+            obMenu.TopMenu();            
         }
     }
 }
